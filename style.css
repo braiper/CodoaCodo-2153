@@ -1,0 +1,36 @@
+.ingreso{
+    align-items: center;
+    text-align: center;
+    background-color: rgba(235, 189, 196, 0.897);
+    width: 200px;
+    padding-right: 200px;
+    padding-left: 200px;
+    height: 200px;
+    margin-right: 500px;
+    margin-left: 370px;
+    margin-top: 300px;
+    border-radius: 2%;
+    border: solid;
+}
+.titulo{
+    font-size:x-large;
+    color: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+.inicial{
+    background-color: rgb(245, 183, 183);
+    height: 920px;
+    width: 100%;
+    position: relative;
+    display: flex;
+
+}
+
+.btn-primary{
+    border-radius: 25%;
+    border-style: solid;
+    font-size: medium;
+}
